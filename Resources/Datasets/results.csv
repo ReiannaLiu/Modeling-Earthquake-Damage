@@ -1,0 +1,9 @@
+Model,accuracy,precision,recall,weighted_f1_score,AUC,AP
+Decision Tree,0.0,0.0,0.0,0.0,0.0,0.0
+Random Forest,0.0,0.0,0.0,0.0,0.0,0.0
+XGB,0.0,0.0,0.0,0.0,0.0,0.0
+SVM,0.0,0.0,0.0,0.0,0.0,0.0
+KNN,0.0,0.0,0.0,0.0,0.0,0.0
+Logistic Regression,0.0,0.0,0.0,0.0,0.0,0.0
+Naive Bayes,0.0,0.0,0.0,0.0,0.0,0.0
+Neural Network,0.0,0.0,0.0,0.0,0.0,0.0
